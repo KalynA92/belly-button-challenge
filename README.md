@@ -43,4 +43,5 @@ I started this assignment by referring to the html and json files provided with 
 ## References
 
 How to create horizontal bar graph and bubble chart
+
 https://plotly.com/javascript/
